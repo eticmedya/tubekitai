@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'description' => 'Find rising keywords. Search volume, competition, and trend scores.',
+    'niche_label' => 'Niche / Topic',
+    'niche_placeholder' => 'Example: Minecraft, Cooking Recipes, Fitness',
+    'keywords_label' => 'Focus Keywords (optional)',
+    'keywords_placeholder' => 'Separate with comma: minecraft survival, minecraft mods',
+    'analyzing' => 'Analyzing...',
+    'analyze_button' => 'Analyze Trends',
+    'trending_keywords' => 'Trending Keywords',
+    'keyword' => 'Keyword',
+    'search_volume' => 'Search Volume',
+    'competition' => 'Competition',
+    'trend' => 'Trend',
+    'opportunity_score' => 'Opportunity Score',
+    'long_tail_keywords' => 'Long Tail Keywords',
+    'question_keywords' => 'Popular Question Searches',
+    'video_ideas' => 'Video Ideas',
+    'seo_tips' => 'SEO Tips',
+    'analysis_results' => 'Analysis Results',
+    'previous_searches' => 'Previous Searches',
+    'niche' => 'Niche',
+    'enter_niche' => 'Please enter a niche/topic',
+];

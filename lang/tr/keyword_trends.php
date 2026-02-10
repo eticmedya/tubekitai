@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'description' => 'Yükselen anahtar kelimeleri bulun. Arama hacmi, rekabet ve trend skorları.',
+    'niche_label' => 'Niş / Konu',
+    'niche_placeholder' => 'Örneğin: Türkçe Minecraft, Yemek Tarifleri, Fitness',
+    'keywords_label' => 'Odak Anahtar Kelimeler (opsiyonel)',
+    'keywords_placeholder' => 'Virgülle ayırın: minecraft survival, minecraft mods',
+    'analyzing' => 'Analiz Ediliyor...',
+    'analyze_button' => 'Trendleri Analiz Et',
+    'trending_keywords' => 'Yükselen Anahtar Kelimeler',
+    'keyword' => 'Anahtar Kelime',
+    'search_volume' => 'Arama Hacmi',
+    'competition' => 'Rekabet',
+    'trend' => 'Trend',
+    'opportunity_score' => 'Fırsat Skoru',
+    'long_tail_keywords' => 'Uzun Kuyruk Anahtar Kelimeler',
+    'question_keywords' => 'Popüler Soru Aramaları',
+    'video_ideas' => 'Video Fikirleri',
+    'seo_tips' => 'SEO İpuçları',
+    'analysis_results' => 'Analiz Sonuçları',
+    'previous_searches' => 'Önceki Aramalar',
+    'niche' => 'Niş',
+    'enter_niche' => 'Lütfen bir niş/konu girin',
+];
